@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE245_LAB4_wamar_Part2", "SE245_LAB4_wamar_Part2.csproj", "{3FFE47D8-559E-4C54-8621-2F9E8184A1BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FFE47D8-559E-4C54-8621-2F9E8184A1BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FFE47D8-559E-4C54-8621-2F9E8184A1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FFE47D8-559E-4C54-8621-2F9E8184A1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FFE47D8-559E-4C54-8621-2F9E8184A1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CFD3B21-6BFD-4239-8042-8AFEAC5AE605}
+	EndGlobalSection
+EndGlobal
